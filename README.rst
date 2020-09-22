@@ -16,7 +16,7 @@ Gevent Functional FSM
 
 
 
-A functionl version of a Gevent FSM
+A functional version of a Gevent FSM
 
 
 * Free software: Apache Software License 2.0
